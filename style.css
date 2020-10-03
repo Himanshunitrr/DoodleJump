@@ -1,0 +1,30 @@
+.grid {
+  width: 400px;
+  height: 600px;
+  background: yellow;
+  position: relative;
+}
+.doodler {
+  width: 60px;
+  height: 85px;
+  background: red;
+  position: absolute;
+}
+.pic {
+ 
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  position: absolute;
+  left: 50%;
+  top: -40px;
+  transform: translate(-50%);
+  
+}
+
+.platform {
+  width: 85px;
+  height: 15px;
+  background: green;
+  position: absolute;
+}
